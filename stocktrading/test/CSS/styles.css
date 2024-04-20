@@ -1,0 +1,33 @@
+body{
+    background-color: orange;
+    color: blue; /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h5{
+        text-align:  center;
+        font-style: italic;
+        background-color: darkgray;
+        opacity: 80%
+}
+a{
+        color: aqua;
+}
+a:visited{
+        color:black;
+}
+img{
+        border: 2px solid blueviolet;
+        padding: 3px;
+        margin: 5px;
+        /*centers stuff*/
+        display: block;
+        margin: auto;
+}
+.nav{
+        position: relative;
+        float: right;
+}
